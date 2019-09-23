@@ -8,6 +8,7 @@ source material can be cloned from:
    :caption: Unix Shell
    
    proj_unique.ipynb
+   mp_ginverse.ipynb
    
 Indices and tables
 ==================
